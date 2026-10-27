@@ -887,7 +887,7 @@ body{background:radial-gradient(1200px 500px at 70% -10%,rgba(217,79,61,.07),tra
 
 /* Project cards */
 .project-grid{gap:16px}
-.project-card{position:relative;border-radius:16px;overflow:hidden;padding:0;gap:0;box-shadow:0 1px 2px rgba(25,29,36,.04),0 18px 32px -30px rgba(25,29,36,.35);border-color:var(--line)}
+.project-card{position:relative;border-radius:16px;overflow:hidden;padding:15px;gap:0;box-shadow:0 1px 2px rgba(25,29,36,.04),0 18px 32px -30px rgba(25,29,36,.35);border-color:var(--line)}
 .project-card:hover{transform:translateY(-3px);box-shadow:0 24px 40px -30px rgba(25,29,36,.5);border-color:color-mix(in srgb,var(--accent) 28%,var(--line))}
 .pc-art{position:relative;height:92px;padding:14px 16px;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden;background:linear-gradient(135deg,#fbe6df,#f6d2c7);color:#8c3a2b}
 .pc-art-2{background:linear-gradient(135deg,#e7e3fb,#d6cff5);color:#4a3a86}
